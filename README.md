@@ -1,36 +1,117 @@
+<!--
+  GitHub Profile README for: heymanishraj
+  Replace or remove any line that no longer reflects your current work.
+  Add project cards only after the corresponding repositories are public.
+-->
+
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">Associate Software Engineer (AI) | Building AI-Powered Solutions, Agentic Workflows & Intelligent Automation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heymanishraj&label=Profile%20views&color=0e75b6&style=flat" alt="heymanishraj" /> </p>
+<h3 align="center">AI Engineer | Generative AI · Agentic Workflows · Intelligent Automation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heymanishraj" alt="heymanishraj" /></a> </p>
-
-- 🔭 I’m currently working on **AI-powered automation and agentic workflows**
-
-- 🌱 I’m currently learning **Generative AI, LLM applications, and advanced agentic systems**
-
-- 👯 I’m looking to collaborate on **Generative AI, AI/ML, and Python-based projects**
-
-- 🤝 I’m looking for help with **Building scalable AI applications and improving model performance**
-
-- 👨‍💻 All of my projects are available at [https://github.com/heymanishraj](https://github.com/heymanishraj)
-
-- 💬 Ask me about **Generative AI, LLM applications, and advanced agentic systems**
-
-- 📫 How to reach me **hey.manishraj@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning complex ideas into practical AI solutions.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itsmaanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmaanish" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/heymanishraj">
+    <img src="https://img.shields.io/badge/GitHub-heymanishraj-181717?style=for-the-badge&amp;logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://linkedin.com/in/itsmaanish">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:hey.manishraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Manish" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heymanishraj&amp;style=flat-square&amp;color=2563eb&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-7c3aed?style=flat-square" alt="Focus: AI Engineering" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-16a34a?style=flat-square" alt="Open to collaboration" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heymanishraj&show_icons=true&locale=en&layout=compact" alt="heymanishraj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heymanishraj&show_icons=true&locale=en" alt="heymanishraj" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heymanishraj&" alt="heymanishraj" /></p>
+I'm an **AI Engineer** interested in building practical, reliable AI-powered applications. My current focus is on **Generative AI, LLM-based applications, agentic workflows, and intelligent automation**.
+
+- 🔭 **Working on:** AI-powered automation and agentic workflows
+- 🌱 **Learning:** Generative AI, LLM application development, and agentic systems
+- 🤝 **Open to:** Collaborating on useful AI/ML and Python projects
+- 💬 **Ask me about:** Python, machine learning, computer vision, and AI automation
+- 📫 **Reach me:** [hey.manishraj@gmail.com](mailto:hey.manishraj@gmail.com)
+- ⚡ **Fun fact:** I enjoy turning complex ideas into practical AI solutions.
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,github,docker,postgresql,mongodb,tensorflow,pytorch,opencv,vscode,ubuntu&amp;perline=8" alt="Technologies: Python, Java, JavaScript, HTML, CSS, React, Git, GitHub, Docker, PostgreSQL, MongoDB, TensorFlow, PyTorch, OpenCV, VS Code, and Linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A9396?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-DB2777?style=flat-square" alt="Agentic AI" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=heymanishraj&amp;show_icons=true&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub statistics for Manish Kumar, including stars, commits, pull requests, and issues" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=heymanishraj&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used programming languages in public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fheymanishraj&amp;query=%24.public_repos&amp;label=Public%20repositories&amp;logo=github&amp;style=for-the-badge&amp;color=2563eb" alt="Public repository count" />
+  <a href="https://github.com/heymanishraj?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&amp;logo=github" alt="View all repositories" />
+  </a>
+</p>
+
+> The stats card includes public-repository activity such as stars, commits, pull requests, and issues. Counts may be cached by the stats provider.
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=heymanishraj&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak, current streak, and longest streak" />
+</p>
+
+## 📈 Contribution & Commit Activity
+
+<p align="center">
+  <a href="https://github.com/heymanishraj">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heymanishraj&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=8" alt="GitHub contribution and commit activity graph for Manish Kumar" />
+  </a>
+</p>
+
+## 🚀 Featured Projects
+
+I'm preparing public repositories with clear documentation, setup steps, and examples. My project interests include:
+
+- 🤖 **Agentic Workflow Automation** — practical workflows that connect AI models and tools
+- 🧠 **Generative AI & LLM Applications** — experiments with useful LLM-powered features
+- 🖼️ **Computer Vision & ML** — applied machine-learning projects and model experiments
+
+👉 **[Explore my public repositories](https://github.com/heymanishraj?tab=repositories)** — I'll add direct project cards here as the repositories are published.
+
+<!--
+When a project is public, replace the example below and duplicate it for more projects:
+
+<p>
+  <a href="https://github.com/heymanishraj/REPOSITORY_NAME">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=heymanishraj&amp;repo=REPOSITORY_NAME&amp;theme=tokyonight&amp;hide_border=true" alt="REPOSITORY_NAME project card" />
+  </a>
+</p>
+-->
+
+## 🤝 Let's Connect
+
+If you're working on AI, machine learning, or automation, feel free to connect or collaborate.
+
+<p align="center">
+  <a href="https://linkedin.com/in/itsmaanish">LinkedIn</a> ·
+  <a href="https://github.com/heymanishraj">GitHub</a> ·
+  <a href="mailto:hey.manishraj@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center"><i>Building, learning, and improving — one commit at a time. 🚀</i></p>
