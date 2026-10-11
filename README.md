@@ -21,7 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heymanishraj&amp;style=flat-square&amp;color=2563eb&amp;label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-7c3aed?style=flat-square" alt="Focus: AI Engineering" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-16a34a?style=flat-square" alt="Open to collaboration" />
 </p>
